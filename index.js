@@ -14,20 +14,19 @@ app.get("/categories", (req, res) => {
   res.send(categories);
 });
 
+app.get("/product-category/:id", (req, res) => {
+  const id = req.params.id;
+  const productDetails = product.filter((product) => product.id === id);
+  res.send(productDetails);
+});
 app.get("/product", (req, res) => {
   res.send(product);
 });
 
 app.get("/product/:id", (req, res) => {
   const id = req.params.id;
-  const singleCourse = product.find((course) => course._id === id);
-  res.send(singleCourse);
-});
-
-app.get("/product-category/:id", (req, res) => {
-  const id = req.params.id;
-  const courseDetails = product.filter((course) => course.id === id);
-  res.send(courseDetails);
+  const singleproduct = product.find((product) => product._id === id);
+  res.send(singleproduct);
 });
 
 app.listen(port, () => {

@@ -16,6 +16,22 @@
     "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
   },
   {
+    "id": "1",
+    "category_id": "Sitahar",
+    "price": 4000,
+    "title": "Golfo Diamon MK",
+    "img": "https://images.othoba.com/images/thumbs/0504543_womens-stylish-sitahar.webp",
+    "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
+  },
+  {
+    "id": "2",
+    "category_id": "Ring",
+    "price": 500,
+    "title": "Greeen Diamon SD",
+    "img": "https://cdn.shopify.com/s/files/1/0550/5338/5861/products/temple-earring-ruby-green-silver-temple-earring-137001-30556682780828_800x.jpg?v=1659154746",
+    "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
+  },
+  {
     "id": "2",
     "category_id": "Ring",
     "price": 1500,
@@ -29,6 +45,14 @@
     "price": 1000,
     "title": "White Diamon MK",
     "img": "https://www.wamanharipethesons.com/portalrepository/images/product/WHPS3285_0_r.jpg",
+    "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
+  },
+  {
+    "id": "3",
+    "category_id": "Bracelet",
+    "price": 5000,
+    "title": "yellowRed Diamon SD",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2022/8/RO/UI/CI/132128793/slbrc128-500x500.jpg",
     "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
   },
   {
@@ -55,12 +79,21 @@
     "img": "https://static-01.daraz.com.bd/p/cac8f51d4b2d287a2b3faf0c6c8911cd.jpg",
     "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
   },
+
   {
     "id": "4",
     "category_id": "Tikli",
     "price": 600,
     "title": "White Diamon MK",
     "img": "https://static-01.daraz.com.bd/p/870f342b837f25ba05f34bc5aaae8e30.jpg",
+    "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
+  },
+  {
+    "id": "4",
+    "category_id": "Tikli",
+    "price": 300,
+    "title": "Golden Diamon SD",
+    "img": "https://static-01.daraz.com.bd/p/3270df6d976be5f9250484a96bc34699.jpg_720x720.jpg_.webp",
     "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
   }
 ]
