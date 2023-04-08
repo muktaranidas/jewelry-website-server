@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "category_id": "ring",
+    "total_price": 500,
+    "title": "Golden Diamon SD",
+    "image_url": "",
+    "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
+  },
+  {
+    "id": "1",
+    "category_id": "ring",
+    "total_price": 400,
+    "title": "White Diamon MK",
+    "image_url": "",
+    "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
+  },
+  {
+    "id": "2",
+    "category_id": "Bracelet",
+    "total_price": 1500,
+    "title": "Golden Diamon SD",
+    "image_url": "",
+    "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
+  },
+  {
+    "id": "2",
+    "category_id": "Bracelet",
+    "total_price": 1000,
+    "title": "White Diamon MK",
+    "image_url": "",
+    "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
+  },
+  {
+    "id": "3",
+    "category_id": "Sitahar",
+    "total_price": 4000,
+    "title": "Golden Diamon SD",
+    "image_url": "",
+    "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
+  },
+  {
+    "id": "3",
+    "category_id": "Sitahar",
+    "total_price": 6000,
+    "title": "White Diamon MK",
+    "image_url": "",
+    "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
+  },
+  {
+    "id": "4",
+    "category_id": "Nupur",
+    "total_price": 300,
+    "title": "Golden Diamon SD",
+    "image_url": "",
+    "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
+  },
+  {
+    "id": "4",
+    "category_id": "Nupor",
+    "total_price": 600,
+    "title": "White Diamon MK",
+    "image_url": "",
+    "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
+  }
+]
