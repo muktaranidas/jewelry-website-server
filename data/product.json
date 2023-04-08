@@ -33,34 +33,34 @@
   },
   {
     "id": "3",
-    "category_id": "Sitahar",
+    "category_id": "Bracelet",
     "price": 4000,
     "title": "Golden Diamon SD",
-    "image_url": "",
+    "img": "https://www.darjewellery.com/product_image/s1200__aHR0cHM6Ly9tZWRpYS5kYXJqZXdlbGxlcnkuaW4vcHJvZHVjdF9pbWFnZXMvczEyMDBfXzE2MTg2NjE1Mzk0MzUuanBn/22-kt-gold-l-moulding-bracelet.jpg",
     "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
   },
   {
     "id": "3",
-    "category_id": "Sitahar",
+    "category_id": "Bracelet",
     "price": 6000,
     "title": "White Diamon MK",
-    "image_url": "",
+    "img": "https://static-01.daraz.com.bd/p/86237bcaea22923da858c0b84e5595a9.jpg_720x720.jpg_.webp",
     "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
   },
   {
     "id": "4",
-    "category_id": "Nupur",
+    "category_id": "Tikli",
     "price": 300,
     "title": "Golden Diamon SD",
-    "image_url": "",
+    "img": "https://static-01.daraz.com.bd/p/cac8f51d4b2d287a2b3faf0c6c8911cd.jpg",
     "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
   },
   {
     "id": "4",
-    "category_id": "Nupor",
+    "category_id": "Tikli",
     "price": 600,
     "title": "White Diamon MK",
-    "image_url": "",
+    "img": "https://static-01.daraz.com.bd/p/870f342b837f25ba05f34bc5aaae8e30.jpg",
     "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
   }
 ]
