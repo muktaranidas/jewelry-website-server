@@ -24,14 +24,10 @@ app.get("/product/:id", (req, res) => {
   res.send(singleCourse);
 });
 
-app.get("/course-category/:id", (req, res) => {
+app.get("/product-category/:id", (req, res) => {
   const id = req.params.id;
-  if (id === "07") {
-    res.send(product);
-  } else {
-    const courseDetails = product.filter((course) => course.category_id === id);
-    res.send(courseDetails);
-  }
+  const courseDetails = product.filter((course) => course.id === id);
+  res.send(courseDetails);
 });
 
 app.listen(port, () => {

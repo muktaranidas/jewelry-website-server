@@ -1,22 +1,22 @@
 [
   {
-    "name": "Earrings",
+    "name": "Sitahar",
     "id": "1",
-    "img": "https://www.google.com/search?q=jewellery+ring&tbm=isch&source=univ&fir=dMcxme30E526NM%252CNdg4blZkjdHXAM%252C_%253BLjJWoJwMwc4kUM%252CR27XELxl9dPYyM%252C_%253BIJ6Lf7rBqJe4tM%252C4bbKmYgNMA-SLM%252C_%253Biqm3HNVycGeZoM%252CYNkVL7IHTRiL6M%252C_%253Bggk5K3cdR9CK7M%252Crzy_2nQEtzTS1M%252C_%253Bd719Gf_Yq15fIM%252Cr6axI2hapNrTBM%252C_%253BgJHJ_-SGO3SXnM%252CXlVd7XTMf5YJ4M%252C_%253BdY2k-TT3bBGIkM%252CZSFd3CZFOesmUM%252C_%253B8wkhagppXV2EVM%252COBAYE4J33jx9SM%252C_%253BjsLab5mtyskGyM%252CnW_OEGhLQGt6XM%252C_%253BpwROftQYlx-rfM%252C59-H4S2kswz_lM%252C_%253BhCKgmiSNo5mirM%252CbnIvNeOw_l9dqM%252C_%253BxrGiRp-ALwHVdM%252CZSFd3CZFOesmUM%252C_%253BTbNxlK0beUvpdM%252CYxhzKg27pxy7lM%252C_%253B_yuNk6AzxQ0WhM%252CDdrdk30A_ZhR0M%252C_&usg=AI4_-kQeJyMvyNM0lxOE-R7c3rUTcaL6FQ&sa=X&ved=2ahUKEwiXw4qH0Jf-AhUMSmwGHWeRC7MQ7Al6BAgXEGc&biw=1024&bih=625&dpr=1#imgrc=8J7mSIE6WDzO0M"
+    "img": "https://i.pinimg.com/originals/4b/81/3f/4b813f20efcdeb2751c9080647e5f3c9.jpg"
+  },
+  {
+    "name": "Earrings",
+    "id": "2",
+    "img": "https://static-01.daraz.com.bd/p/313c2f5b2ceb96896235eded7991919c.jpg_720x720.jpg_.webp"
+  },
+  {
+    "name": "Tikli",
+    "id": "3",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG9BFDm7cKdvyFNmeE3tyK0wNxBRqpyg9ELxgyT6pzm6DPtL9NSwoGLLxQeH1owmcq9PM&usqp=CAU"
   },
   {
     "name": "Bracelet",
-    "id": "2",
-    "img": "https://unsplash.com/photos/f3gcUmrR4eQ"
-  },
-  {
-    "name": "Nose Ring",
-    "id": "3",
-    "img": "https://unsplash.com/photos/f3gcUmrR4eQ"
-  },
-  {
-    "name": "Nupur",
     "id": "4",
-    "img": "https://unsplash.com/photos/f3gcUmrR4eQ"
+    "img": "https://manubhai.in/SocialMedia/post_artworks/Bloom-9-15July.jpg"
   }
 ]

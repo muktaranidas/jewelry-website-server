@@ -1,48 +1,48 @@
 [
   {
     "id": "1",
-    "category_id": "ring",
-    "total_price": 500,
+    "category_id": "Sitahar",
+    "price": 500,
     "title": "Golden Diamon SD",
-    "image_url": "",
+    "img": "https://lh3.googleusercontent.com/ci/AEwo86dx65hbIr382D7qte56gtTqg5cQv73llH9HOgP-j6-AiPmp3YhYh8Gz3KA5NqH5dDP0j2LLpw=s1200",
     "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
   },
   {
     "id": "1",
-    "category_id": "ring",
-    "total_price": 400,
+    "category_id": "Sitahar",
+    "price": 400,
     "title": "White Diamon MK",
-    "image_url": "",
+    "img": "https://i.pinimg.com/236x/98/53/06/985306f8ff227e617c010d80e9807e96--daily-news-airports.jpg",
     "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
   },
   {
     "id": "2",
-    "category_id": "Bracelet",
-    "total_price": 1500,
+    "category_id": "Ring",
+    "price": 1500,
     "title": "Golden Diamon SD",
-    "image_url": "",
+    "img": "https://5.imimg.com/data5/AC/HI/GLADMIN-28301471/ladies-designer-gold-earring-500x500.png",
     "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
   },
   {
     "id": "2",
-    "category_id": "Bracelet",
-    "total_price": 1000,
+    "category_id": "Ring",
+    "price": 1000,
     "title": "White Diamon MK",
+    "img": "https://www.wamanharipethesons.com/portalrepository/images/product/WHPS3285_0_r.jpg",
+    "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
+  },
+  {
+    "id": "3",
+    "category_id": "Sitahar",
+    "price": 4000,
+    "title": "Golden Diamon SD",
     "image_url": "",
     "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
   },
   {
     "id": "3",
     "category_id": "Sitahar",
-    "total_price": 4000,
-    "title": "Golden Diamon SD",
-    "image_url": "",
-    "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
-  },
-  {
-    "id": "3",
-    "category_id": "Sitahar",
-    "total_price": 6000,
+    "price": 6000,
     "title": "White Diamon MK",
     "image_url": "",
     "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
@@ -50,7 +50,7 @@
   {
     "id": "4",
     "category_id": "Nupur",
-    "total_price": 300,
+    "price": 300,
     "title": "Golden Diamon SD",
     "image_url": "",
     "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
@@ -58,7 +58,7 @@
   {
     "id": "4",
     "category_id": "Nupor",
-    "total_price": 600,
+    "price": 600,
     "title": "White Diamon MK",
     "image_url": "",
     "details": "Labore eirmod et accusam ipsum et voluptua. Ea lorem lorem invidunt no sanctus et et. Kasd dolore clita et gubergren."
